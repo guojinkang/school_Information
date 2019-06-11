@@ -17,26 +17,26 @@
   - Email：[1473291402@qq.com](1473291402@qq.com) 
   - Github：[https://github.com/guojinkang](https://github.com/guojinkang)
 - 袁云鹏（市场总监、UI设计师、开发工程师、测试工程师）
-  - Email：[673105182@qq.com](mailto:673105182@qq.com)
-  - Github：[https://github.com/jiachengyan](https://github.com/jiachengyan)
+  - Email：[1013121161@qq.com](mailto:1013121161@qq.com)
+  - Github：[https://github.com/yuanyunpeng](https://github.com/yuanyunpeng)
 - 黄文旭（技术总监、UI设计师、开发工程师、测试工程师）
-  - Email：[1551073921@qq.com](mailto:1551073921@qq.com)
-  - Github：[https://github.com/nieliangpeng](https://github.com/nieliangpeng)
+  - Email：[2214821343@qq.com](mailto:2214821343@qq.com)
+  - Github：[https://github.com/2016011416](https://github.com/2016011416)
 - 邬梓渌（技术总监、UI设计师、开发工程师、测试工程师）
-  - Email：[2908673445@qq.com](mailto:2908673445@qq.com)
-  - Github：[https://github.com/WangMing6ban](https://github.com/WangMing6ban)
+  - Email：[748717911@qq.com](mailto:748717911@qq.com)
+  - Github：[https://github.com/wuzilu](https://github.com/wuzilu)
 - 李云洋（产品经理、UI设计师、开发工程师、测试工程师）
-  - Email：[2396515252@qq.com](mailto:2396515252@qq.com)
-  - Github：[https://github.com/ZhuoZm](https://github.com/ZhuoZm)
-- 汪世昭（质量专家、UI设计师、开发工程师、测试工程师）
-  - Email：[14703313561@163.com](mailto:14703313561@163.com)
-  - Github：[https://github.com/yangxiaoyu98](https://github.com/yangxiaoyu98)
+  - Email：[695511535@qq.com](mailto:695511535@qq.com)
+  - Github：[https://github.com/liyunyang123](https://github.com/liyunyang123)
+- 汪世昭（产品经理、UI设计师、开发工程师、测试工程师）
+  - Email：[nobodynoway@qq.com](mailto:nobodynoway@qq.com)
+  - Github：[https://github.com/wangshizhao](https://github.com/wangshizhao)
 - 侯忠祺（质量专家、UI设计师、开发工程师、测试工程师）
-  - Email：[14703313561@163.com](mailto:14703313561@163.com)
-  - Github：[https://github.com/yangxiaoyu98](https://github.com/yangxiaoyu98)
+  - Email：[948727781@qq.com](mailto:948727781@qq.com)
+  - Github：[https://github.com/houzhongqi](https://github.com/houzhongqi)
 - 黄军阳（质量专家、UI设计师、开发工程师、测试工程师）
-  - Email：[14703313561@163.com](mailto:14703313561@163.com)
-  - Github：[https://github.com/yangxiaoyu98](https://github.com/yangxiaoyu98)
+  - Email：[1327087884@qq.com](1327087884@qq.com)
+  - Github：[https://github.com/huangjunyang1](https://github.com/huangjunyang1)
 
   ### 项目截图
   
@@ -44,7 +44,6 @@
 <img src="./image/首页1.png"  />
 <img src="./image/成绩分布.png"  />
 <img src="./image/成绩分析.png" />
-<img src="./image/成绩预测.png"  />
 <img src="./image/成绩预测.png"  />
  <img src="./image/个人信息.png"  />
  <img src="./image/招聘.png"  />
